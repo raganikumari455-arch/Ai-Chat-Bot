@@ -41,7 +41,7 @@ A simple rule-based chatbot built using Python. This project is designed for beg
 ```
 📁 Rule-Based-ChatBot
  ┣ 📄 chatbot.py
- ┗ 📄 README.md
+
 
 ## 💡 Example Interaction
 
